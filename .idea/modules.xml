@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FlightRepository.iml" filepath="$PROJECT_DIR$/.idea/FlightRepository.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/customer/customer.iml" filepath="$PROJECT_DIR$/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flight/flight.iml" filepath="$PROJECT_DIR$/flight/flight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation/reservation.iml" filepath="$PROJECT_DIR$/reservation/reservation.iml" />
+>>>>>>> 843e9abfe5d672cad28e8109db06bebe4a0f1fa0
     </modules>
   </component>
 </project>
